@@ -9,7 +9,7 @@ public class loops {
         // }   
         // The for loop is used when the number of iterations is known beforehand.
         // Question: find the sum of first n natural numbers
-        Scanner sc = new Scanner(System.in);
+        // Scanner sc = new Scanner(System.in);
         // System.out.print("Enter a number: ");
         // int n = sc.nextInt();
         // int sum = 0;
@@ -19,11 +19,12 @@ public class loops {
         // System.out.println("Sum of first " + n + " natural numbers is: " + sum);    
         
         // Question: print the table of n
-        System.out.print("Enter a number: ");
-        int n = sc.nextInt();
-        for (int i = 1; i <= 10; i++) {
-            System.out.println(n + " * " + i + " = " + (n * i)); // n*i
-        }
+        // Scanner sc = new Scanner(System.in);
+        // System.out.print("Enter a number: ");
+        // int n = sc.nextInt();
+        // for (int i = 1; i <= 10; i++) {
+        //     System.out.println(n + " * " + i + " = " + (n * i)); // n*i
+        // }
 
 
 
