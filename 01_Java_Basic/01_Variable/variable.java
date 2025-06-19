@@ -1,6 +1,17 @@
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-public class Main {
+
+
+
+
+
+
+// There are 3 type of variable.
+//1. Local variable - used inside a mothod only
+//2. instance variable - it can be used anywhere in the class
+//3. static variable -
+
+public class variable {
     
 	public static void main(String[] args) {
 		System.out.print(3+5);

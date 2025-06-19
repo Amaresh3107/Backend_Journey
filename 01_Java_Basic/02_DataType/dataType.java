@@ -1,5 +1,5 @@
 
-public class Main {
+public class dataType {
 
 	public static void main(String[] args) {
 		int num1=9;

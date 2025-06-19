@@ -58,12 +58,12 @@ public class array {
         System.out.println("Enter the size of the array: ");
         Scanner sc = new Scanner(System.in);
         int size = sc.nextInt();
-        int[] number = new int[size]; // array declaration and instantiation
+        int[] number = new int[size];         // array declaration and instantiation
         
         //input
         for (int i=0; i<number.length; i++){
             System.out.print("Enter the element at index " + i + ": ");
-            number[i] = sc.nextInt(); // array initialization
+            number[i] = sc.nextInt();        // array initialization
             }
         
         System.out.println("Enter the X to be searched: ");
